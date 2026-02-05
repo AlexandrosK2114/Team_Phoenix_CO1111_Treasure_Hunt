@@ -74,9 +74,6 @@ main{
     transform: translateY(4px)
 }
 #mediaWidgets{
-    margin:auto;
-}
-
-#mediaWidgets{
+    background-color:rgb(232,228,223);
     margin:auto;
 }
