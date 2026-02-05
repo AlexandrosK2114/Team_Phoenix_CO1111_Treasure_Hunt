@@ -73,6 +73,9 @@ main{
 #BEGIN:active{
     transform: translateY(4px)
 }
+#mediaWidgets{
+    margin:auto;
+}
 
 #mediaWidgets{
     margin:auto;
