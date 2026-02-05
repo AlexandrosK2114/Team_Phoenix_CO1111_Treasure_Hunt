@@ -23,10 +23,15 @@ header {
     background-image:url("indexBackground.png");
 
 }*/
+main{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+}
 
 #indexInfo{
-    padding:2.5%;
     margin:auto;
+    padding:2.5%;
     margin-top:2%;
     margin-bottom:2%;
     background-color:rgb(214,205,195);
@@ -67,4 +72,8 @@ header {
 /*from https://www.w3schools.com/css/css3_buttons.asp*/
 #BEGIN:active{
     transform: translateY(4px)
+}
+
+#mediaWidgets{
+    margin:auto;
 }
