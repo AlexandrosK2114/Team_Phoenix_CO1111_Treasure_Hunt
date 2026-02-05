@@ -77,3 +77,11 @@ main{
     background-color:rgb(232,228,223);
     margin:auto;
 }
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color:#f5c293;
+    margin-top:5%;
+}
